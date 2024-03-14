@@ -1,0 +1,10 @@
+body{
+	background-color: green;
+}
+.H1{
+position:absolute;
+margin-top:calc(var(--index)*200);
+margin-left:calc(var(--index)*200);
+font.size:calc(var(--index)*1);
+color:black;
+}
