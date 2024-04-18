@@ -1,6 +1,4 @@
-body{
-	background-color: #f7f7ee;
-}
+body{}
 .H1{
 position:absolute;
 margin-top:calc(var(--index)*100);
